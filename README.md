@@ -20,6 +20,10 @@ def hello():
 
 ```
 
+```python:https://github.com/tokusumi/readme-code-testing/blob/main/src/helloworld.py
+
+```
+
 See [src/helloworld.py](./src/helloworld.py) as:
 
 * Synchronized code.
